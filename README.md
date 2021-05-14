@@ -9,6 +9,7 @@
 
 ### Questions to Answer
 > What is the projected need for future spay and neutering funding for the Waupaca Humane Society?
+
 > The answer to this question will be used to request grant funding.
 
 ### Communication Protocols
