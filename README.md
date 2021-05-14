@@ -8,7 +8,7 @@
   * 3 files with stray and surrender details for each year
 
 ### Questions to Answer
-> What is the projected need for future spay and neutering funding for the Waupaca County Humane Society?
+> What is the projected need for future spay and neuter funding for the Waupaca County Humane Society?
 
 > The answer to this question will be used to request grant funding for future surgical procedures.
 
