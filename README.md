@@ -1,6 +1,7 @@
 # Waupaca Humane Society Grant Data Research
 
 ## Rationale for Project Selection
+> To help animal control efforts locally in Waupaca county by historical data analysis to assist in obtaining grant funding to help cover the cost for spay and neuter procedures of low income family pets and free roaming cats.
 
 ### Source Data
 * 6 .csv files for 2018, 2019 and 2020
