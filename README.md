@@ -13,4 +13,5 @@
 > The answer to this question will be used to request grant funding for future surgical procedures.
 
 ### Communication Protocols
-* Slack group for quick communication and sharing of ideas
+* Slack group for quick communication and sharing of ideas and files.
+* Scheduled and impromptu Zoom meetings to discuss project progression and planning for future tasks and completion deadlines.
