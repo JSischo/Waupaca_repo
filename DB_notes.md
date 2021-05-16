@@ -1,12 +1,14 @@
 # HSWC database notes
+Using six CSV files from the Humane Society of Waupaca County, we will create a SQL database.
 
-https://azure.microsoft.com/en-us/free/
-
+## Entity Relationship Diagram
+(not a lot of relationships)
 ![ERD](/Resources/QuickDBD-FinalProjectERD.png)
 
-<a href=https://github.com/JSischo/Waupaca_repo/blob/bfaa61fb9340fd41520098ea5468bb21b0448cd5/Resources/QuickDBD-FinalProjectERD.png>ERD</a>
-<a href=https://github.com/JSischo/Waupaca_repo/blob/bfaa61fb9340fd41520098ea5468bb21b0448cd5/Resources/postgres-demo-sample.png>Postgres</a>
+## Postgres Demo Table
+![Postgres Table](/Resources/postgres-demo-sample.png)
 
-https://github.com/JSischo/Waupaca_repo/blob/bfaa61fb9340fd41520098ea5468bb21b0448cd5/Resources/QuickDBD-FinalProjectERD.png
+## Cloud implementation of Postgres
+Azure could be a possible implementation of Postgres in the cloud. (https://azure.microsoft.com/en-us/free/)  No experience to know if free really means free.  Perhaps AWS will
+need to be considered.  This is to-be determined.
 
-https://github.com/JSischo/Waupaca_repo/blob/bfaa61fb9340fd41520098ea5468bb21b0448cd5/Resources/postgres-demo-sample.png
