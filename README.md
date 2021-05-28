@@ -16,3 +16,6 @@
 ### Communication Protocols
 * Slack group for quick communication and sharing of ideas and files.
 * Scheduled and impromptu Zoom meetings to discuss project progression and planning for future tasks and completion deadlines.
+
+### Google Slides Presentation
+https://docs.google.com/presentation/d/1emPdqSAiMH3Ub7QUCO1gWlcjvGJTe60-7JYsucfBBII/edit?usp=sharing
