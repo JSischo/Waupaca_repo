@@ -2,8 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
+
 config.py
 **/.DS_Store
+
 # C extensions
 *.so
 
@@ -137,3 +140,9 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+#repo files
+Jeff.ipynb
+/Preliminary Files/Machine Learning Model
+.DS_Store
+
