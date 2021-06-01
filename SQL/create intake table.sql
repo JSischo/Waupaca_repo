@@ -1,0 +1,22 @@
+CREATE TABLE public.intake (
+	"Animal #" varchar(255) NULL,
+	species varchar(255) NULL,
+	"Primary Breed" varchar(255) NULL,
+	"Secondary Breed" varchar(255) NULL,
+	gender varchar(255) NULL,
+	altered varchar(255) NULL,
+	"Age in Months Intake" int4 NULL,
+	"Age Group" varchar(255) NULL,
+	"Intake Condition" varchar(255) NULL,
+	"Intake Date" varchar(255) NULL,
+	"Intake Type" varchar(255) NULL,
+	"Intake Subtype" varchar(255) NULL,
+	reason varchar(255) NULL,
+	"Agency Name" varchar(255) NULL,
+	"Outcome Date" varchar(255) NULL,
+	"Release Date" varchar(255) NULL,
+	"Outcome Type" varchar(255) NULL,
+	"Outcome Subtype" varchar(255) NULL,
+	"Outcome Reason" varchar(255) NULL,
+	outcome_agency_name varchar(255) NULL
+);
