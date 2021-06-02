@@ -19,7 +19,9 @@
 > Data and Database
 > 
 > Tools and Technologies
-> 
+
+> Machine Learning Model
+
 > Connections
 > 
 
