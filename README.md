@@ -16,6 +16,12 @@
 > The answer to this question will be used by the Waupaca County Humane Society to request grant funding for future spay and neuter surgical procedures.
 
 ### Outline of the Project
+> Data and Database
+> 
+> Tools and Technologies
+> 
+> Connections
+> 
 
 ### Google Slides Presentation
 https://docs.google.com/presentation/d/1emPdqSAiMH3Ub7QUCO1gWlcjvGJTe60-7JYsucfBBII/edit?usp=sharing
