@@ -15,9 +15,7 @@
 
 > The answer to this question will be used by the Waupaca County Humane Society to request grant funding for future spay and neuter surgical procedures.
 
-### Communication Protocols
-* Slack group for quick communication and sharing of ideas and files.
-* Scheduled and impromptu Zoom meetings to discuss project progression and planning for future tasks and completion deadlines.
+### Outline of the Project
 
 ### Google Slides Presentation
 https://docs.google.com/presentation/d/1emPdqSAiMH3Ub7QUCO1gWlcjvGJTe60-7JYsucfBBII/edit?usp=sharing
