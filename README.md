@@ -17,13 +17,13 @@
 
 ### Outline of the Project
 > Data and Database
-> 
+
 > Tools and Technologies
 
 > Machine Learning Model
 
 > Connections
-> 
+ 
 
 ### Google Slides Presentation
 https://docs.google.com/presentation/d/1emPdqSAiMH3Ub7QUCO1gWlcjvGJTe60-7JYsucfBBII/edit?usp=sharing
