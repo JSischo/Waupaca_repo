@@ -72,4 +72,7 @@ The Medical Table is not related to the other tables in this database and it inc
  
 
 ### Google Slides Presentation
+Preliminary Slide Deck: 
 https://docs.google.com/presentation/d/1emPdqSAiMH3Ub7QUCO1gWlcjvGJTe60-7JYsucfBBII/edit?usp=sharing
+Final Presentation Slide deck: 
+https://docs.google.com/presentation/d/190bVfUhZyXly3JJzEVZvdOMScOxi0F_Oy7oLk574IXA/edit?usp=sharing
