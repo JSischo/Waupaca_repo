@@ -69,6 +69,7 @@ The Medical Table is not related to the other tables in this database and it inc
 > Machine Learning Model
 > The machine learning model that we chose to use is the ARIMA (AutoRegressive Integrated Moving Average) Model. This is a model that analyzes and forecasts time series data
 
+
 > Connections
  
 
