@@ -9,9 +9,9 @@
   * 3 files with stray and surrender details for each year
 
 * Data is stored in a AWS RDS database
-* Data was cleaned in python dropping sesative information 
+* Data was cleaned in python dropping sensitive information 
 * The Orginal CSVs were stored into two tables 
-* Two additional tables new table was created to store latitudes and longitueds for stray and adopted animals inplace of storing addresses
+* Two additional tables were created to store latitudes and longitueds for stray and adopted animals inplace of storing addresses
 * The Final tables are Intake, Found_location, Adopted_location, Medical
 * The Intake table includes the following features:  
   * Animal #
@@ -67,6 +67,7 @@ The Medical Table is not related to the other tables in this database and it inc
 > Tools and Technologies
 
 > Machine Learning Model
+> The machine learning model that we chose to use is the ARIMA (AutoRegressive Integrated Moving Average) Model. This is a model that analyzes and forecasts time series data
 
 > Connections
  
