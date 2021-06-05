@@ -72,6 +72,10 @@ The Medical Table is not related to the other tables in this database and it inc
 > Tools used in this model are:
    * Seasonal decomposition - we used this in our model to seperate time series data into core component; those include potental trend, seasonality, and the
      remaining random residual.
+     
+   * ARIMA - we used this model to predict future point in the series and ot also better understand the data.
+
+   * Adfuller - the adfuller test was used to detect whether a time series is stationary or not.
 
 > Connections
  
