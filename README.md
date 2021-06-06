@@ -49,21 +49,21 @@ obtaining grant funding to cover some costs for spay and neuter procedures of lo
   * Adopted_lat
   * Adopted_long
 
-The combined Clinic addresses is a subset of Adopted addresses and includes the following features:
- * Animal #
- * Species
- * Intake_Type (equal to Clinic only)
- * Intake_Subtype (equal to spay or neuter)
- * clinic_lat
- * clinic_long
+* The combined Clinic addresses is a subset of Adopted addresses and includes the following features:
+  * Animal #
+  * Species
+  * Intake_Type (equal to Clinic only)
+  * Intake_Subtype (equal to spay or neuter)
+  * clinic_lat
+  * clinic_long
 
-The Medical Table is not related to the other tables in this database and it incldues the following features: 
-  * animal_type
-  * record_no
-  * status
-  * date
-  * record_type
-  * record_sub_type
+* The Medical Table is not related to the other tables in this database and it incldues the following features: 
+   * animal_type
+   * record_no
+   * status
+   * date
+   * record_type
+   * record_sub_type
 
 
 ### Questions to Answer
