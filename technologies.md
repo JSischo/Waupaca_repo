@@ -30,3 +30,11 @@
 
 ## IV. Tableau Desktop
 Tableau will be use to carry on further analysis on our dataset, which will include interactive visualization, stories of our dataset, and a dashboard.
+
+## V . Time series model
+        Seasonal decomposition - we used this in our model to seperate time series data into its core component; those include potential trend, seasonality,
+        and the remaining random residual.
+        
+        ARIMA - we use this model to predict future point in the series and to also better understand the data.
+        
+        adfuller - The ADfuller test was use to detect whether a time series is stationary or not. 
