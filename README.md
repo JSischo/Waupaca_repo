@@ -119,8 +119,8 @@ Over three times as many strays taken in at HSWC are cats compared to dogs. (Str
  * Cats 36.3%
 
 #### ACO/POLICE AND PUBLIC DROP OFF OF STRAYS
-As percenta of all strays brought in by the public or by an Animal Control Officer or Police, cats make up nearly three quarters of the total number of strays.  1.5%
-of cats and dogs combined represent animals that were abandoned at the facility.
+As a percentage of all strays brought in by the public or by an Animal Control Officer/Police, cats make up nearly three quarters of the total number of strays.  (1.5%
+of cats and dogs combined represent animals that were abandoned at the facility.)
 
  * Dogs 22.9%
  * Cats 71.1% (with an additional 4% born in care)
