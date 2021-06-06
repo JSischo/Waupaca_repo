@@ -105,7 +105,7 @@ While the total number of dogs and cats is close to being equal at intake, with 
  * Dogs approx 53%
  * Cats approx 45.8%
  * Other 1.2%
- * 
+ 
 #### OWNER SURRENDER
 For dogs, Owner Surrender is by far the largest percentage of type of Intake.  For cats, Owner Surrender is close to the same percentage as are brought in as Strays.  
 
@@ -125,8 +125,8 @@ of cats and dogs combined represent animals that were abandoned at the facility.
  * Dogs 22.9%
  * Cats 71.1% (with an additional 4% born in care)
 
-#### CONCLUSION 
-These statistics bear out the need to focus on Free Roaming Cats (FRC) for funding spay/neuter programs.
+#### CONCLUSIONS FROM INTAKE DATA 
+These statistics bear out the need to focus some funding on Free Roaming Cats (FRC) for funding spay/neuter programs.
 
 #### SPAY AND NEUTER STATISTICAL ANALYSIS
 Percent of Total Surgical Procedures Done for Clinic Customers
