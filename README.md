@@ -49,7 +49,7 @@ obtaining grant funding to cover some costs for spay and neuter procedures of lo
   * Adopted_lat
   * Adopted_long
 
-* The combined Clinic addresses is a subset of Adopted addresses and includes the following features:
+The combined Clinic addresses is a subset of Adopted addresses and includes the following features:
  * Animal #
  * Species
  * Intake_Type (equal to Clinic only)
