@@ -16,15 +16,15 @@ The answer to this question will be used by the Waupaca County Humane Society to
 > Technologies
 
 > Machine Learning Model
-> The machine learning model that we chose to use is the ARIMA (AutoRegressive Integrated Moving Average) Model. This is a model that analyzes and forecasts time series data
-
-> Tools used in this model are:
-   * Seasonal decomposition - we used this in our model to seperate time series data into core component; those include potental trend, seasonality, and the
-     remaining random residual.
-     
-   * ARIMA - we used this model to predict future point in the series and ot also better understand the data.
-
-   * Adfuller - the adfuller test was used to detect whether a time series is stationary or not.
+  * Chosen machine learning model is the ARIMA (AutoRegressive Integrated Moving Average) Model 
+  * Analyzes and forecasts time series data
+  * Data was originally cleaned in Excel to create row data
+  * Data further cleaned with Python to get down to one dimensional data source (requirement of ARIMA model)
+  * Data checked for stationary status with AdFuller and Rolling Mean visualization graph
+  * Data split into 75% Train and 25% Test samples before fitting to the ARIMA model
+  * Model tested with RMSE analysis
+  * Seasonal decomposition used to seperate time series data into core components to check for any potential trends, seasonality effect, and random residuals.
+  * Prediction was run within the ARIMA model for a 3 year projection.
 
 > Connections
 * postgres://postgres:{db_password}@waupacahumane.cjxaaswzhpwh.us-east-2.rds.amazonaws.com
@@ -128,6 +128,7 @@ Percent of Total Surgical Procedures Done for Clinic Customers
 Percent of Spay/Neuter by Cat/Dog of Total Surgeries
 
 #### MACHINE LEARNING MODEL FOR FORECASTING NEED FOR SPAY AND NEUTER PROCEDURES AT HSWC
+ARIMA model predicted a continued need for spay and neuter services at the current 3 year historical rate with a potential slight increase over the next 3 years.
 
 ### Google Slides Presentation
 
