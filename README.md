@@ -9,13 +9,13 @@ What is the need for future spay and neuter funding for the Waupaca County Human
 The answer to this question will be used by the Waupaca County Humane Society to request grant funding for future spay and neuter surgical procedures.
 
 ### Outline of the Project
-> Data and Database
+> **Data and Database**
 * See Data Section of this document for more details on data preparation and how this data is used 
 * See resource folder to view data
 
-> Technologies
+> **Technologies**
 
-> Machine Learning Model
+> **Machine Learning Model**
   * Chosen machine learning model is the ARIMA (AutoRegressive Integrated Moving Average) Model 
   * Analyzes and forecasts time series data
   * Data was originally cleaned in Excel to create row data
@@ -27,7 +27,7 @@ The answer to this question will be used by the Waupaca County Humane Society to
   * Prediction was run within the ARIMA model for a 3 year projection
   * Visualizations of the process can be viewed in the Resources folder
 
-> Connections
+> **Connections**
 * postgres://postgres:{db_password}@waupacahumane.cjxaaswzhpwh.us-east-2.rds.amazonaws.com
 /Waupaca_Humane
 
