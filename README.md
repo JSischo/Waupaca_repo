@@ -10,7 +10,7 @@ The answer to this question will be used by the Waupaca County Humane Society to
 
 ### Outline of the Project
 > Data and Database
-* See Data Section of this document for more details on data preperation and how this data is used 
+* See Data Section of this document for more details on data preparation and how this data is used 
 * See resource folder to view data
 
 > Technologies
@@ -23,8 +23,9 @@ The answer to this question will be used by the Waupaca County Humane Society to
   * Data checked for stationary status with AdFuller and Rolling Mean visualization graph
   * Data split into 75% Train and 25% Test samples before fitting to the ARIMA model
   * Model tested with RMSE analysis
-  * Seasonal decomposition used to seperate time series data into core components to check for any potential trends, seasonality effect, and random residuals.
-  * Prediction was run within the ARIMA model for a 3 year projection.
+  * Seasonal decomposition used to seperate time series data into core components to check for any potential trends, seasonality effect, and random residuals
+  * Prediction was run within the ARIMA model for a 3 year projection
+  * Visualizations of the process can be viewed in the Resources folder
 
 > Connections
 * postgres://postgres:{db_password}@waupacahumane.cjxaaswzhpwh.us-east-2.rds.amazonaws.com
@@ -128,7 +129,7 @@ Percent of Total Surgical Procedures Done for Clinic Customers
 Percent of Spay/Neuter by Cat/Dog of Total Surgeries
 
 #### MACHINE LEARNING MODEL FOR FORECASTING NEED FOR SPAY AND NEUTER PROCEDURES AT HSWC
-ARIMA model predicted a continued need for spay and neuter services at the current 3 year historical rate with a potential slight increase over the next 3 years.
+> ARIMA model predicted a continued need for spay and neuter services at the current 3 year historical rate with a potential slight increase over the next 3 years.
 
 ### Google Slides Presentation
 
