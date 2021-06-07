@@ -89,12 +89,6 @@ The answer to this question will be used by the Waupaca County Humane Society to
 > Connections
  
 
-### Google Slides Presentation
-Preliminary Slide Deck: 
-https://docs.google.com/presentation/d/1emPdqSAiMH3Ub7QUCO1gWlcjvGJTe60-7JYsucfBBII/edit?usp=sharing
-Final Presentation Slide deck: 
-https://docs.google.com/presentation/d/190bVfUhZyXly3JJzEVZvdOMScOxi0F_Oy7oLk574IXA/edit?usp=sharing
-
 
 ### Background Information to Help Answer The Question of Need for Spay and Neuter Funding
 Some conclusions can be made from looking at an analysis of intake data.  The following numbers can be retrieved from our dashboard, which covers data from 2018-2020.
@@ -133,5 +127,10 @@ Percent of Total Surgical Procedures Done for Clinic Customers
 Percent of Spay/Neuter by Cat/Dog of Total Surgeries
 
 #### MACHINE LEARNING MODEL FOR FORECASTING NEED FOR SPAY AND NEUTER PROCEDURES AT HSWC
+
+### Google Slides Presentation
+
+Final Presentation Slide deck: 
+https://docs.google.com/presentation/d/190bVfUhZyXly3JJzEVZvdOMScOxi0F_Oy7oLk574IXA/edit?usp=sharing
 
 
