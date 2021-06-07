@@ -1,8 +1,34 @@
 # Waupaca County Humane Society Grant Data Research
 
 ## Rationale for Project Selection
-To help control the pet homelessness crisis and to prevent unnecessary euthanasia of healthy animals, locally in Waupaca County, using historical data analysis to assist in
-obtaining grant funding to cover some costs for spay and neuter procedures of low income family pets and free roaming cats.
+To help control the pet homelessness crisis and to prevent unnecessary euthanasia of healthy animals, locally in Waupaca County, using historical data analysis to assist in obtaining grant funding to cover some costs for spay and neuter procedures of low income family pets and free roaming cats.
+
+
+### Question to Answer
+What is the need for future spay and neuter funding for the Waupaca County Humane Society?
+The answer to this question will be used by the Waupaca County Humane Society to request grant funding for future spay and neuter surgical procedures.
+
+### Outline of the Project
+> Data and Database
+* See Data Section of this document for more details on data preperation and how this data is used 
+* See resource folder to view data
+
+> Technologies
+
+> Machine Learning Model
+> The machine learning model that we chose to use is the ARIMA (AutoRegressive Integrated Moving Average) Model. This is a model that analyzes and forecasts time series data
+
+> Tools used in this model are:
+   * Seasonal decomposition - we used this in our model to seperate time series data into core component; those include potental trend, seasonality, and the
+     remaining random residual.
+     
+   * ARIMA - we used this model to predict future point in the series and ot also better understand the data.
+
+   * Adfuller - the adfuller test was used to detect whether a time series is stationary or not.
+
+> Connections
+* postgres://postgres:{db_password}@waupacahumane.cjxaaswzhpwh.us-east-2.rds.amazonaws.com
+/Waupaca_Humane
 
 ### Source Data
 * 6 .csv files for 2018, 2019 and 2020 obtained from the Waupaca County Humane Society.
@@ -64,31 +90,6 @@ obtaining grant funding to cover some costs for spay and neuter procedures of lo
    * date
    * record_type
    * record_sub_type
-
-
-### Questions to Answer
-What is the need for future spay and neuter funding for the Waupaca County Humane Society?
-The answer to this question will be used by the Waupaca County Humane Society to request grant funding for future spay and neuter surgical procedures.
-
-### Outline of the Project
-> Data and Database
-
-> Technologies
-
-> Machine Learning Model
-> The machine learning model that we chose to use is the ARIMA (AutoRegressive Integrated Moving Average) Model. This is a model that analyzes and forecasts time series data
-
-> Tools used in this model are:
-   * Seasonal decomposition - we used this in our model to seperate time series data into core component; those include potental trend, seasonality, and the
-     remaining random residual.
-     
-   * ARIMA - we used this model to predict future point in the series and ot also better understand the data.
-
-   * Adfuller - the adfuller test was used to detect whether a time series is stationary or not.
-
-> Connections
- 
-
 
 ### Background Information to Help Answer The Question of Need for Spay and Neuter Funding
 Some conclusions can be made from looking at an analysis of intake data.  The following numbers can be retrieved from our dashboard, which covers data from 2018-2020.
