@@ -27,6 +27,7 @@ The answer to this question will be used by the Waupaca County Humane Society to
 * See resource folder to view data
 
  **Technologies**
+
 PostgreSQL, pgAdmin, AWS RDS, Python, Pandas, Jupyter Notebook, Python libraries: Numpy, GeoPy (Nominatum), Matplotlib, Sklearn, TensorFlow (ARIMA, adfuller, seasonal
 decomposition), Tableau Desktop and Tableau Public
 
