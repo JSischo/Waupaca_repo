@@ -14,7 +14,8 @@ As is typical in most animal adoptions across the nation, HSWC charges an adopti
 must be spayed or neutered either before adoptions or as a condition of adoption in order to reduce homeless pet populations.  However, in some cases, animal owners obtain
 their pets through sources other than animal shelters such that the pets have not yet been altered.  The cost of obtaining spay and neutering services through a veterinarian can
 be prohibitive for low income families.  To assist with this need, the HSWC offers spay and neuter services to low-income families through their clinic program. (in addition to
-vaccinations and microchipping)
+vaccinations and microchipping)  Grant funding would support these clinic services, while adopters would continue to fund their pets' spay or neuter surgery through adoption
+fees.
 
 ### Question to Answer
 What is the need for future spay and neuter funding for the Waupaca County Humane Society?
