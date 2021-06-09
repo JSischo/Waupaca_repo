@@ -125,8 +125,33 @@ of cats and dogs combined represent animals that were abandoned at the facility.
 These statistics bear out the need to focus some funding on Free Roaming Cats (FRC) for funding spay/neuter programs.
 
 #### SPAY AND NEUTER STATISTICAL ANALYSIS
-Percent of Total Surgical Procedures Done for Clinic Customers
-Percent of Spay/Neuter by Cat/Dog of Total Surgeries
+Percent of Total Surgical Procedures Done for Clinic Customers(low income)
+
+
+
+Percent of Spay/Neuter of total  cats surgeries 
+
+ * Cat 35% Spay
+ * Cat 37% Neuter
+ 
+Percent of Spay/Neuter of total  dogs surgeries 
+ * dog 17% Spay
+ * dog 12% Neuter
+
+Average number of surgery by months over the course of three years
+ 
+ * Jan 8.3%
+ * Feb 6%
+ * Mar 10%
+ * Apr 5.0%
+ * May 8%
+ * Jun 8.3%
+ * JUL 10%
+ * Aug 9.1%
+ * Sept 8.2%
+ * Oct 9.0%
+ * Nov 10.6%
+ * Dec 7.7%
 
 #### MACHINE LEARNING MODEL FOR FORECASTING NEED FOR SPAY AND NEUTER PROCEDURES AT HSWC
 > ARIMA model predicted a continued need for spay and neuter services at the current 3 year historical rate with a potential slight increase over the next 3 years.
