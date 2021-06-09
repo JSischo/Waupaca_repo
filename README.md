@@ -180,8 +180,8 @@ https://public.tableau.com/app/profile/carolyn.shaffer/viz/HSWC-final-presentati
 
 ### Recommendations
 <b>For funders:</b> Waupaca County Humane Society is clearly very effective, hard working and a champion of animal welfare in central WI.  They consistently have a high rate of
-live release and successfully place hundreds of surrendered and stray animals in adoptive homes every year.  To futher their effective operations, funding for spay and neuter 
-surgeries for low-income family pets and free-roaming cats would provide additional benefit.
+live release and successfully place hundreds of surrendered and stray animals in adoptive homes every year.  To further their effective operations, funding for spay and neuter 
+surgeries for low-income family pets and free-roaming cats would provide much needed additional benefit.
 
 <b>For the HSWC:</b> Although our experience studying animal shelter data is limited, we can see that your operations are truly beneficial to everyone, pets and people, in
 central Wisconsin.  HSWC stands as an example of excellence in animal welfare services.  
