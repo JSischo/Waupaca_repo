@@ -13,8 +13,8 @@ The Humane Society of Waupaca County is located in the city of Waupaca in Waupac
 As is typical in most animal adoptions across the nation, HSWC charges an adoption fee that covers the costs associated with animal care such as spaying and neutering.  Animals
 must be spayed or neutered either before adoptions or as a condition of adoption in order to reduce homeless pet populations.  However, in some cases, animal owners obtain
 their pets through sources other than animal shelters such that the pets have not yet been altered.  The cost of obtaining spay and neutering services through a veterinarian can
-be cost prohibitive for low income families.  To assist with this need, the HSWC offers spay and neuter services to low-income families through their clinic program. (in
-addition to vaccinations and microchipping)
+be prohibitive for low income families.  To assist with this need, the HSWC offers spay and neuter services to low-income families through their clinic program. (in addition to
+vaccinations and microchipping)
 
 ### Question to Answer
 What is the need for future spay and neuter funding for the Waupaca County Humane Society?
@@ -179,8 +179,9 @@ Dashboard in Tableau Public:
 https://public.tableau.com/app/profile/carolyn.shaffer/viz/HSWC-final-presentation-dashboard/LandingPage
 
 ### Recommendations
-For funders: Waupaca County Humane Society is clearly very effective, hard working and a champion of animal welfare in central WI.  They consistently have a high rate of live
-release and successfully place hundreds of surrendered and stray animals in adoptive homes every year.  To futher their effective operations, funding for spay and neuter surgeries for low-income family pets and free-roaming cats would provide additional benefit.
+<b>For funders:</b> Waupaca County Humane Society is clearly very effective, hard working and a champion of animal welfare in central WI.  They consistently have a high rate of
+live release and successfully place hundreds of surrendered and stray animals in adoptive homes every year.  To futher their effective operations, funding for spay and neuter 
+surgeries for low-income family pets and free-roaming cats would provide additional benefit.
 
 For the HSWC: Although our experience studying animal shelter data is limited, we can see that your operations are truly beneficial to everyone, pets and people, in central
 Wisconsin.  HSWC stands as an example of excellence in animal welfare services.  
