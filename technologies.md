@@ -9,7 +9,7 @@
 
     Pandas - will be use to clean, process, and perform exploratory analysis on our dataset.
     
-    Other Python libraries used:  Numpy, GeoPy, Nomanatium, Matplotlib
+    Other Python libraries used:  Numpy, GeoPy, Nominatum, Matplotlib
 
 ## II. Database Storage:
 
