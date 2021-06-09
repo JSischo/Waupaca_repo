@@ -3,6 +3,18 @@
 ## Rationale for Project Selection
 To help control the pet homelessness crisis and to prevent unnecessary euthanasia of healthy animals, locally in Waupaca County, using historical data analysis to assist in obtaining grant funding to cover some costs for spay and neuter procedures of low income family pets and free roaming cats.
 
+### Humane Society of Waupaca County
+The Humane Society of Waupaca County is located in the city of Waupaca in Waupaca County, Wisconsin.
+
+*
+*
+*
+
+As is typical in most animal adoptions across the nation, HSWC charges an adoption fee that covers the costs associated with animal care such as spaying and neutering.  Animals
+must be spayed or neutered either before adoptions or as a condition of adoption in order to reduce homeless pet populations.  However, in some cases, animal owners obtain
+their pets through sources other than animal shelters such that the pets have not yet been altered.  The cost of obtaining spay and neutering services through a veterinarian can
+be cost prohibitive for low income families.  To assist with this need, the HSWC offers spay and neuter services to low-income families through their clinic program. (in
+addition to vaccinations and microchipping)
 
 ### Question to Answer
 What is the need for future spay and neuter funding for the Waupaca County Humane Society?
@@ -92,7 +104,7 @@ The answer to this question will be used by the Waupaca County Humane Society to
    * record_type
    * record_sub_type
 
-### Background Information to Help Answer The Question of Need for Spay and Neuter Funding
+### Background Information
 Some conclusions can be made from looking at an analysis of intake data.  The following numbers can be retrieved from our dashboard, which covers data from 2018-2020.
 
 #### TOTAL INTAKE	
@@ -124,12 +136,12 @@ of cats and dogs combined represent animals that were abandoned at the facility.
 #### CONCLUSIONS FROM INTAKE DATA 
 These statistics bear out the need to focus some funding on Free Roaming Cats (FRC) for funding spay/neuter programs.
 
-#### SPAY AND NEUTER STATISTICAL ANALYSIS
+#### Spay and Neuter Analysis
 Percent of Total Surgical Procedures Done for Clinic Customers(low income)
 
 
 
-Percent of Spay/Neuter of total  cats surgeries 
+Percent of Spay/Neuter of total cats surgeries 
 
  * Cat 35% Spay
  * Cat 37% Neuter
@@ -146,7 +158,7 @@ Average number of surgery by months over the course of three years
  * Apr 5.0%
  * May 8%
  * Jun 8.3%
- * JUL 10%
+ * Jul 10%
  * Aug 9.1%
  * Sept 8.2%
  * Oct 9.0%
@@ -165,5 +177,19 @@ https://docs.google.com/presentation/d/190bVfUhZyXly3JJzEVZvdOMScOxi0F_Oy7oLk574
 
 Dashboard in Tableau Public:
 https://public.tableau.com/app/profile/carolyn.shaffer/viz/HSWC-final-presentation-dashboard/LandingPage
+
+### Recommendations
+For funders: Waupaca County Humane Society is clearly very effective, hard working and a champion of animal welfare in central WI.  They consistently have a high rate of live
+release and successfully place hundreds of surrendered and stray animals in adoptive homes every year.  To futher their effective operations, funding for spay and neuter surgeries for low-income family pets and free-roaming cats would provide additional benefit.
+
+For the HSWC: Although our experience studying animal shelter data is limited, we can see that your operations are truly beneficial to everyone, pets and people, in central
+Wisconsin.  HSWC stands as an example of excellence in animal welfare services.  
+
+We also realize the limitations of data collection and recording of data in animal shelters across the country.  With further study, it may be possible to determine other
+factors that affect additional positive outcomes such as retaining records of spay/neuter dates, examination of seasonal influences on provision of clinic spay/neuter surgeries
+and possible promotion of spay/neuter services in low-income areas.
+
+On behalf of our Bootcamp group, we want to thank you for the opportunity to review your operations and hopefully have added convincing testimony to this and future grant
+opporunities.
 
 
