@@ -183,10 +183,10 @@ https://public.tableau.com/app/profile/carolyn.shaffer/viz/HSWC-final-presentati
 live release and successfully place hundreds of surrendered and stray animals in adoptive homes every year.  To futher their effective operations, funding for spay and neuter 
 surgeries for low-income family pets and free-roaming cats would provide additional benefit.
 
-For the HSWC: Although our experience studying animal shelter data is limited, we can see that your operations are truly beneficial to everyone, pets and people, in central
-Wisconsin.  HSWC stands as an example of excellence in animal welfare services.  
+<b>For the HSWC:</b> Although our experience studying animal shelter data is limited, we can see that your operations are truly beneficial to everyone, pets and people, in
+central Wisconsin.  HSWC stands as an example of excellence in animal welfare services.  
 
-We also realize the limitations of data collection and recording of data in animal shelters across the country.  With further study, it may be possible to determine other
+We realize the limitations of data collection and recording of data in animal shelters across the country.  With further study, it may be possible to determine other
 factors that affect additional positive outcomes such as retaining records of spay/neuter dates, examination of seasonal influences on provision of clinic spay/neuter surgeries
 and possible promotion of spay/neuter services in low-income areas.
 
