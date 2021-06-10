@@ -137,7 +137,7 @@ of cats and dogs combined represent animals that were abandoned at the facility.
 #### CONCLUSIONS FROM INTAKE DATA 
 These statistics bear out the need to focus some funding on Free Roaming Cats (FRC) for funding spay/neuter programs.
 
-#### Spay and Neuter Analysis
+### Spay and Neuter Analysis
 Percent of Total Surgical Procedures Done for Clinic Customers(low income)
 
  * The map in generial shows low income places in the state of Wiconsin, in relation to Spaying and Neutering.
