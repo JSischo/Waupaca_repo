@@ -140,16 +140,15 @@ These statistics bear out the need to focus some funding on Free Roaming Cats (F
 ### Spay and Neuter Analysis
 Percent of Total Surgical Procedures Done for Clinic Customers(low income)
 
- * The map in generial shows low income places in the state of Wiconsin, in relation to Spaying and Neutering.
- * The makers on the map represents Spay/Neuter cats and dogs, in low income communities in Waupaca County and its surrounding.
-
+ * The map in general shows low income places (by Zip Code, from 2018 US Census data) in the state of Wiconsin, in relation to Spaying and Neutering clinic customers.
+ * The markers on the map represents Spay/Neuter cats and dogs owners, in low income communities in Waupaca County and its surrounding.
 
 Percent of Spay/Neuter of total cats surgeries 
 
  * Cat 35% Spay
  * Cat 37% Neuter
  
-Percent of Spay/Neuter of total  dogs surgeries 
+Percent of Spay/Neuter of total dogs surgeries 
  * dog 17% Spay
  * dog 12% Neuter
 
@@ -167,11 +166,13 @@ Average number of surgery by months over the course of three years
  * Oct 9.0%
  * Nov 10.6%
  * Dec 7.7%
-#### Conclison from Spay and Neuter Analysis
-Our analysis shows that, the averge number of surgery performed in the months of Feb, Apr, and Dec decreased on the line chart. To undestand the reasons behand those dereases and improve the output, we would need additional data to conduct further analysis.
+ * 
+#### Conclusion from Spay and Neuter Analysis
+Our analysis shows that, the averge number of surgery performed in the months of Feb, Apr, and Dec decreased on the line chart. To undestand the reasons behand those decreases and
+improve the output, we would need additional data to conduct further analysis.
 
 #### MACHINE LEARNING MODEL FOR FORECASTING NEED FOR SPAY AND NEUTER PROCEDURES AT HSWC
-> ARIMA model predicted a continued need for spay and neuter services at the current 3 year historical rate with a potential slight increase over the next 3 years.
+ARIMA model predicted a continued need for spay and neuter services at the current 3 year historical rate with a potential slight increase over the next 3 years.
 
 ### Google Slides Presentation
 
