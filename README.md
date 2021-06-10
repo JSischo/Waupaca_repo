@@ -4,7 +4,8 @@
 To help control the pet homelessness crisis and to prevent unnecessary euthanasia of healthy animals, locally in Waupaca County, using historical data analysis to assist in obtaining grant funding to cover some costs for spay and neuter procedures of low income family pets and free roaming cats.
 
 ### Humane Society of Waupaca County
-The Humane Society of Waupaca County is located in the city of Waupaca in Waupaca County, Wisconsin.
+The Humane Society of Waupaca County is located in the city of Waupaca in Waupaca County, Wisconsin.  It is a non-profit organization with a mission to inspire caring and compassion
+by bringing positive change to the lives of people and animals through humane education and companion animal care.  Their live release rate is upwards of 95% annually.
 
 As is typical in most animal adoptions across the nation, HSWC charges an adoption fee that covers the costs associated with animal care such as spaying and neutering.  Animals
 must be spayed or neutered either before adoptions or as a condition of adoption in order to reduce homeless pet populations.  However, in some cases, animal owners obtain
