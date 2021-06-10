@@ -28,8 +28,8 @@ The answer to this question will be used by the Waupaca County Humane Society to
 
  **Technologies**
 
-PostgreSQL, pgAdmin, AWS RDS, Python, Pandas, Jupyter Notebook, Python libraries: Numpy, GeoPy (Nominatum), Matplotlib, Sklearn, TensorFlow (ARIMA, adfuller, seasonal
-decomposition), Tableau Desktop and Tableau Public
+PostgreSQL, pgAdmin, AWS RDS, Python, Pandas, Jupyter Notebook, Python libraries: Numpy, GeoPy (Nominatum), Matplotlib, Sklearn, ARIMA, adfuller, seasonal
+decomposition, Tableau Desktop and Tableau Public
 
 **Machine Learning Model**
   * Chosen machine learning model is the ARIMA (AutoRegressive Integrated Moving Average) Model 
