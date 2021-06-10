@@ -191,8 +191,8 @@ surgeries for low-income family pets and free-roaming cats would provide much ne
 central Wisconsin.  HSWC stands as an example of excellence in animal welfare services.  
 
 We realize the limitations of data collection and recording of data in animal shelters across the country.  With further study, it may be possible to determine other
-factors that affect additional positive outcomes such as retaining records of spay/neuter dates, examination of seasonal influences on provision of clinic spay/neuter surgeries
-and possible promotion of spay/neuter services in low-income areas.
+factors that affect additional positive outcomes such as retaining records of Animal ID# in medical records, examination of seasonal influences on provision of clinic spay/neuter
+surgeries and possible promotion of spay/neuter services in low-income areas.
 
 On behalf of our Bootcamp group, we want to thank you for the opportunity to review your operations and hopefully have added convincing testimony to this and future grant
 opporunities.
