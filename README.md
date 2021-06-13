@@ -174,6 +174,8 @@ improve the output, we would need additional data to conduct further analysis.
 #### MACHINE LEARNING MODEL FOR FORECASTING NEED FOR SPAY AND NEUTER PROCEDURES AT HSWC
 ARIMA model predicted a continued need for spay and neuter services at the current 3 year historical rate with a potential slight increase over the next 3 years.
 
+![3-Year Projection](/Resources/ARIMA_forecast.png)
+
 ### Google Slides Presentation
 
 Final Presentation Slide deck: 
