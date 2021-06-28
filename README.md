@@ -168,7 +168,7 @@ Average number of surgery by months over the course of three years
  * Dec 7.7%
  * 
 #### Conclusion from Spay and Neuter Analysis
-Our analysis shows that, the averge number of surgery performed in the months of Feb, Apr, and Dec decreased on the line chart. To undestand the reasons behand those decreases and
+Our analysis shows that, the averge number of surgery performed in the months of Feb, Apr, and Dec decreased on the line chart. To undestand the reasons behind those decreases and
 improve the output, we would need additional data to conduct further analysis.
 
 #### MACHINE LEARNING MODEL FOR FORECASTING NEED FOR SPAY AND NEUTER PROCEDURES AT HSWC
