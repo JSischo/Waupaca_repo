@@ -3,6 +3,11 @@
 ## Rationale for Project Selection
 To help control the pet homelessness crisis and to prevent unnecessary euthanasia of healthy animals, locally in Waupaca County, using historical data analysis to assist in obtaining grant funding to cover some costs for spay and neuter procedures of low income family pets and free roaming cats.
 
+  <p align="center">
+  <a href="https://github.com/JSischo/Waupaca_repo/blob/main/Resources/dashboardimage.png">
+    <img src="images/night_all_layers.png" alt="EQ night map" width="700" height="400">
+  </a>
+
 ### Humane Society of Waupaca County
 The Humane Society of Waupaca County is located in the city of Waupaca in Waupaca County, Wisconsin.  It is a non-profit organization with a mission to inspire caring and compassion
 by bringing positive change to the lives of people and animals through humane education and companion animal care.  Their live release rate is upwards of 95% annually.
