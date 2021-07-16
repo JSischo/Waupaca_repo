@@ -5,7 +5,7 @@ To help control the pet homelessness crisis and to prevent unnecessary euthanasi
 
   <p align="center">
   <a href="https://github.com/JSischo/Waupaca_repo/blob/1a49b72325142cd2d3a01bbebed84e5bdd62a64e/Resources/dashboardimage.png">
-    <img src="/Resources/dashboardimage.png" alt="HSWC dashboard project" width="600" height="400">
+    <img src="/Resources/dashboardimage.png" alt="HSWC dashboard project" width="800" height="400">
   </a>
 
 ### Humane Society of Waupaca County
