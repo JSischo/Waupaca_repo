@@ -4,8 +4,8 @@
 To help control the pet homelessness crisis and to prevent unnecessary euthanasia of healthy animals, locally in Waupaca County, using historical data analysis to assist in obtaining grant funding to cover some costs for spay and neuter procedures of low income family pets and free roaming cats.
 
   <p align="center">
-  <a href="https://github.com/JSischo/Waupaca_repo/blob/main/Resources/dashboardimage.png">
-    <img src="images/night_all_layers.png" alt="EQ night map" width="700" height="400">
+  <a href="https://github.com/JSischo/Waupaca_repo/Resources/dashboardimage.png">
+    <img src="images/night_all_layers.png" alt="HSWC dashboard project" width="700" height="400">
   </a>
 
 ### Humane Society of Waupaca County
